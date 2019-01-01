@@ -4,4 +4,4 @@ I was pretty much a child when I made this. However, the graphics look very nice
 
 gameplay:
 
-![alt text] https://github.com/pocafavilla/lightsOut/blob/master/gameplay%20screenshot.png
+![alt text](https://github.com/pocafavilla/lightsOut/blob/master/gameplay%20screenshot.png)
